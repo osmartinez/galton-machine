@@ -1,0 +1,19 @@
+#galton-board{
+    background: gray;
+}
+
+.circle{
+    border-radius: 50%;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    position: absolute;
+}
+
+.ball{
+    background: aquamarine;
+}
+
+.wall{
+    background: red;
+}
