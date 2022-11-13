@@ -1,4 +1,4 @@
-# galton-machine
+# galton-machine-js
 Pure javascript and css galton machine simulator.
 
 This approach uses pretty simple simulated physics for ball bouncing.
